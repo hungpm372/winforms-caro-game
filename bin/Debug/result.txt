@@ -1,0 +1,15 @@
+[{"StartTime":"2023-10-14T11:40:22.2556576+07:00","Player1Name":"hung","Player1Time":26,"Player1Undo":0,"Player2Name":"quan","Player2Time":26,"Player2Undo":0,"Winner":0}
+{"StartTime":"2023-10-14T11:46:08.1028398+07:00","Player1Name":"hieu","Player1Time":14,"Player1Undo":0,"Player2Name":"hoa","Player2Time":13,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T11:48:00.3339017+07:00","Player1Name":"quan","Player1Time":10,"Player1Undo":0,"Player2Name":"hieu","Player2Time":0,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T11:53:02.4878013+07:00","Player1Name":"nga","Player1Time":23,"Player1Undo":3,"Player2Name":"truong","Player2Time":15,"Player2Undo":1,"Winner":0}
+{"StartTime":"2023-10-14T13:24:14.3661169+07:00","Player1Name":"hung","Player1Time":10,"Player1Undo":0,"Player2Name":"hoang","Player2Time":0,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T13:30:42.4727118+07:00","Player1Name":"truong","Player1Time":10,"Player1Undo":0,"Player2Name":"hung","Player2Time":0,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T13:31:47.9195306+07:00","Player1Name":"hieu","Player1Time":15,"Player1Undo":0,"Player2Name":"hung","Player2Time":17,"Player2Undo":0,"Winner":0}
+{"StartTime":"2023-10-14T13:59:45.9228418+07:00","Player1Name":"hung","Player1Time":22,"Player1Undo":0,"Player2Name":"hoa","Player2Time":14,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T14:28:28.3836473+07:00","Player1Name":"hung","Player1Time":10,"Player1Undo":0,"Player2Name":"hoa","Player2Time":0,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T14:31:34.2488848+07:00","Player1Name":"hoa","Player1Time":10,"Player1Undo":0,"Player2Name":"hung","Player2Time":0,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T14:35:55.871853+07:00","Player1Name":"hung","Player1Time":10,"Player1Undo":0,"Player2Name":"hoa","Player2Time":0,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T14:38:48.2555357+07:00","Player1Name":"hung","Player1Time":10,"Player1Undo":0,"Player2Name":"hieu","Player2Time":0,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T14:55:59.1341535+07:00","Player1Name":"hung","Player1Time":14,"Player1Undo":0,"Player2Name":"hoa","Player2Time":2,"Player2Undo":0,"Winner":1}
+{"StartTime":"2023-10-14T15:45:06.5455549+07:00","Player1Name":"hung","Player1Time":10,"Player1Undo":0,"Player2Name":"hoa","Player2Time":3,"Player2Undo":0,"Winner":0}
+{"StartTime":"2023-10-14T15:48:01.6309334+07:00","Player1Name":"hung","Player1Time":1,"Player1Undo":0,"Player2Name":"hieu","Player2Time":0,"Player2Undo":0,"Winner":0}]

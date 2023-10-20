@@ -1,0 +1,14 @@
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\bin\Debug\Caro_PhanMinhHưng.exe.config
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\bin\Debug\Caro_PhanMinhHưng.exe
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\bin\Debug\Caro_PhanMinhHưng.pdb
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\obj\Debug\Caro_PhanMinhHưng.csproj.AssemblyReference.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\obj\Debug\Caro_PhanMinhHưng.Properties.Resources.resources
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\obj\Debug\Caro_PhanMinhHưng.csproj.GenerateResource.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\obj\Debug\Caro_PhanMinhHưng.csproj.CoreCompileInputs.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\obj\Debug\Caro_PhanMinhHưng.exe
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\obj\Debug\Caro_PhanMinhHưng.pdb
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\obj\Debug\Caro_PhanMinhHưng.frmHung.resources
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\bin\Debug\Newtonsoft.Json.xml
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\obj\Debug\Caro_PhanMinhHưng.csproj.CopyComplete
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\bin\Debug\Newtonsoft.Json.dll
+D:\Source\.NET\WindownForm\Exercise\Exercise 2\Caro_PhanMinhHưng\obj\Debug\Caro_PhanMinhHưng.frmResult.resources
